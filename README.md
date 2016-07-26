@@ -1,4 +1,4 @@
-Alpine Linux docker image with PHP 5.6 set up with "php" as entrypoint.
+Alpine Linux docker image with the text editor "nano" as entrypoint.
 
 ```bash
 $ docker run --rm -it -v $(pwd):/data jimlei/alpine-nano -V
